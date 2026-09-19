@@ -11,7 +11,8 @@ https://www.canva.com/design/DAHSQ7I3CmY/xUpW03vKDc82RiS_js6OgA/view?utm_content
 
 percentual de empresas que aderiram: 19,90% =B42/B44
 
-https://centropaulasouza.sharepoint.com/:x:/r/sites/FontesdeInformacaoeBancodeDados-A1105-N-GEST.PROD.INDUSTRIAL/Student%20Work/Working%20files/LAUREN%20CRISTINE%20DOS%20SANTOS/Aula%2028%20de%20agosto/operador_transporte_multimodal%20(2).xlsx?d=w169a66716a4646bdbe168d526390fe90&csf=1&web=1&e=xlC5Ai
+https://github.com/laurencristine62-arch/fonte-inf-BD/blob/main/operador_transporte_multimodal%20(2).xlsx
+
 
 <img width="482" height="291" alt="image" src="https://github.com/user-attachments/assets/624f406d-a90b-4e3c-a57a-38651dd7f1f0" />
 
