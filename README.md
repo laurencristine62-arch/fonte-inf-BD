@@ -62,6 +62,7 @@ resposta:o preço médio da gasolina apresentou uma pequena queda de janeiro par
 
 https://centropaulasouza-my.sharepoint.com/:x:/r/personal/lauren_santos01_aluno_cps_sp_gov_br/Documents/Pre%C3%A7os%20semestrais%20-%20AUTOMOTIVOS_2026.01.xlsx?d=w4ae5a98cb9114af4a45d155f2d1d0462&csf=1&web=1&e=GgygiX
 
+## empresas multimodais no power bi
 
-
+<img width="1319" height="816" alt="image" src="https://github.com/user-attachments/assets/3fcbd522-9ddd-4c3f-bcc1-391fc901b976" />
 
