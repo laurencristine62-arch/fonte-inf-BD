@@ -75,14 +75,19 @@ Pergunta 1: Como evoluiu o número de matrículas entre 2019 e 2024?
 Resposta: O número de matrículas passou de 2.031.349 em 2019 para 2.440.800 em 2024, apresentando crescimento no período.
 
 Pergunta 2: Qual rede de ensino possui mais matrículas?
+
 Resposta: A rede privada, com 11.042.668 matrículas no período analisado.
+
 Pergunta 3: Qual modalidade possui mais matrículas?
+
 Resposta: A modalidade presencial, com 7.822.249 matrículas.
+
 Pergunta 4: Qual grau acadêmico possui mais matrículas?
 
-
-
 Resposta: O bacharelado, com 8.022.755 matrículas.
+
 Pergunta 5: Qual é a distribuição das matrículas por sexo?
-Resposta: Foram registradas 7.543.178 matrículas femininas e 5.557.991 masculinas
-<img width="1310" height="739" alt="image" src="https://github.com/user-attachments/assets/cf5c5234-f309-4c91-ae9b-c1e466e93879" />
+
+Resposta: Foram registradas 7.543.178 matrículas femininas e 5.557.991 masculina
+
+src="https://github.com/user-attachments/assets/cf5c5234-f309-4c91-ae9b-c1e466e93879" />
