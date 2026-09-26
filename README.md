@@ -70,6 +70,7 @@ https://centropaulasouza-my.sharepoint.com/:x:/r/personal/lauren_santos01_aluno_
 
 ## Análise de Dados – Educação Superior
 onte: INEP – Censo da Educação Superior.
+
 Pergunta 1: Como evoluiu o número de matrículas entre 2019 e 2024?
 
 Resposta: O número de matrículas passou de 2.031.349 em 2019 para 2.440.800 em 2024, apresentando crescimento no período.
@@ -91,3 +92,5 @@ Pergunta 5: Qual é a distribuição das matrículas por sexo?
 Resposta: Foram registradas 7.543.178 matrículas femininas e 5.557.991 masculina
 
 src="https://github.com/user-attachments/assets/cf5c5234-f309-4c91-ae9b-c1e466e93879" />
+
+<img width="1316" height="738" alt="image" src="https://github.com/user-attachments/assets/93b8eeb3-4500-4681-b930-dfc1d2edd2ff" />
