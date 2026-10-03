@@ -4,6 +4,9 @@ atividades da disciplina fonte de dados
 Descrição...
 https://www.canva.com/design/DAHSQ7I3CmY/xUpW03vKDc82RiS_js6OgA/view?utm_content=DAHSQ7I3CmY&utm_campaign=designshare&utm_medium=link&utm_source=viewer
 
+<img width="1671" height="930" alt="image" src="https://github.com/user-attachments/assets/d6286f4e-7724-422d-b5a4-d22cc811f133" />
+
+
 ## multimodais
 1-qual é o estado (UF) com a maior quantidade de empresas habilitadas para o transporte mutimodal? resposta: São paulo, com 569 empresas. =CONT.SE(in!F:F;respostas!A7)
 
