@@ -97,3 +97,85 @@ Resposta: Foram registradas 7.543.178 matrículas femininas e 5.557.991 masculin
 src="https://github.com/user-attachments/assets/cf5c5234-f309-4c91-ae9b-c1e466e93879" />
 
 <img width="1316" height="738" alt="image" src="https://github.com/user-attachments/assets/93b8eeb3-4500-4681-b930-dfc1d2edd2ff" />
+
+
+
+
+# 📊 Análise de Matrículas do Ensino Superior no Brasil
+
+<img width="908" height="527" alt="image" src="https://github.com/user-attachments/assets/af87c790-60ef-4874-be99-a20889ed7307" />
+
+
+
+## 1. Sobre o projeto
+
+Este projeto tem como objetivo analisar os dados de matrículas do ensino superior no Brasil, utilizando dados abertos governamentais e a ferramenta Power BI.
+
+A proposta é apresentar informações de forma visual e interativa, facilitando a compreensão dos dados sobre as instituições de ensino superior.
+
+## 2. Objetivo
+
+Desenvolver um dashboard interativo para analisar as matrículas do ensino superior, permitindo visualizar informações por ano, modalidade de ensino e instituição.
+
+## 3. Fontes de dados
+
+Foram utilizadas duas bases de dados governamentais:
+
+**Tabela 1 — Matrículas do INEP**
+
+Contém informações sobre as matrículas do ensino superior, incluindo:
+- Ano do censo;
+- Código da instituição;
+- Modalidade de ensino;
+- Sexo dos estudantes;
+- Quantidade de matrículas.
+
+Fonte: INEP — Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira.
+
+**Tabela 2 — Instituições de Ensino Superior do MEC**
+
+Contém informações sobre as instituições de ensino superior, incluindo:
+- Código da instituição;
+- Nome da instituição;
+- Categoria administrativa;
+- Município;
+- Organização acadêmica.
+
+Fonte: MEC — Ministério da Educação.
+
+## 4. Relacionamento entre as tabelas
+
+As duas tabelas foram relacionadas no Power BI por meio do código da instituição de ensino superior.
+
+- Tabela de instituições: `CODIGO_DA_IES`.
+- Tabela de matrículas: `co_ies`.
+
+Foi utilizado o relacionamento de um para muitos (1:*), em que uma instituição pode possuir vários registros de matrículas.
+
+## 5. Visualizações no Power BI
+
+O dashboard apresenta visualizações para facilitar a análise dos dados, como:
+
+- Total de matrículas;
+- Matrículas por ano;
+- Comparação entre as modalidades presencial e EAD;
+- Informações das instituições de ensino superior;
+- Filtros interativos para facilitar a consulta;
+- Imagens representativas das instituições ou do ambiente universitário.
+
+## 6. Ferramentas utilizadas
+
+- Power BI Desktop;
+- Microsoft Excel;
+- Dados abertos governamentais;
+- GitHub.
+
+## 7. Conclusão
+
+Com este projeto, foi possível trabalhar com duas bases de dados diferentes, realizar o relacionamento entre elas e desenvolver visualizações interativas no Power BI.
+
+A análise permite conhecer melhor o cenário do ensino superior brasileiro e compreender como os dados podem ser utilizados para gerar informações importantes.
+
+## 8. Arquivos do projeto
+
+Neste repositório estão disponíveis os arquivos utilizados na análise, as bases de dados e o relatório desenvolvido no Power BI.
