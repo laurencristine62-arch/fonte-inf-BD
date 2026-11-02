@@ -179,3 +179,40 @@ A análise permite conhecer melhor o cenário do ensino superior brasileiro e co
 ## 8. Arquivos do projeto
 
 Neste repositório estão disponíveis os arquivos utilizados na análise, as bases de dados e o relatório desenvolvido no Power BI.
+
+
+
+
+# 🍦 Análise de Relação entre Temperatura e Faturamento de Sorvete
+
+
+<img width="770" height="458" alt="image" src="https://github.com/user-attachments/assets/3af3e102-2f4d-464c-916e-14af97a6de29" />
+
+<img width="867" height="512" alt="image" src="https://github.com/user-attachments/assets/e43069c7-68ac-434d-810d-d35bc2e4b0f3" />
+
+Projeto prático de análise de dados mostrando a correlação entre temperatura e vendas de sorvete, utilizando Excel e Python no Google Colab.
+
+### 📊 Visualização Final
+Gráfico de Dispersão: Relação entre Temperatura (°C) e Faturamento (Ice Cream Sales) - mostra correlação positiva forte.
+
+### 🎯 Objetivo
+Analisar se o aumento da temperatura influencia diretamente no faturamento de sorvetes.
+
+### 📁 Etapas do Projeto
+
+**1. Excel (primeira parte do vídeo):**
+- Importação do arquivo CSV baixado do SharePoint / CVC
+- Colunas analisadas: Temperatura e Ice Cream Sales (Faturamento)
+- Tratamento inicial e criação de Tabela
+- Criação do Gráfico de Dispersão no Excel
+    - Inserir > Gráfico de Dispersão
+    - Resultado: pontos azuis mostrando tendência de crescimento linear
+    - Quanto maior a temperatura, maior o faturamento
+
+**2. Google Colab - Python (segunda parte do vídeo):**
+- Upload do arquivo CSV para o Colab
+- Bibliotecas usadas:
+
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
